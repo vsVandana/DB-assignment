@@ -1,5 +1,4 @@
 import {mongoose , Schema } from "mongoose";
-import { type } from "os";
 
 //Product Schema
 const productSchema = new Schema({
